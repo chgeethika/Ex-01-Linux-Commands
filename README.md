@@ -1,4 +1,4 @@
-![image](https://github.com/chgeethika/Ex-01-Linux-Commands/assets/142209368/dd2798e9-73df-4f73-813f-6b3702e173c9)# Ex-01-Linux-Commands
+# Ex-01-Linux-Commands
 
 
 ## Aim:
