@@ -1,4 +1,4 @@
-# Ex-01-Linux-Commands
+![image](https://github.com/chgeethika/Ex-01-Linux-Commands/assets/142209368/dd2798e9-73df-4f73-813f-6b3702e173c9)# Ex-01-Linux-Commands
 
 
 ## Aim:
@@ -22,6 +22,11 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
+
+![image](https://github.com/chgeethika/Ex-01-Linux-Commands/assets/142209368/b02e05b1-7bf9-4544-997c-9a331f4bf3f8)
+
+
+ 
 
 
 ### 2)	pwd Command
